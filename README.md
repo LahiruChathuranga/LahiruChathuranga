@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Lahiru Chathuranga
 
 <div align="center">
   
@@ -49,7 +49,7 @@ iOS Developer with 6 years of experience crafting elegant and efficient mobile s
 
 ## 🤝 Let's Connect!
 - 💼 [LinkedIn](your-linkedin-url)
-- 📫 Email: your.email@domain.com
+- 📫 Email: hiru.wlc@gmail.com
 - 🌐 Portfolio: [your-portfolio-url]
 
 ---
