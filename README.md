@@ -42,13 +42,13 @@ iOS Developer with 6 years of experience crafting elegant and efficient mobile s
 
 </div>
 
-## 🌟 Featured Projects
+[## 🌟 Featured Projects
 - 📱 [Project 1] - Brief description
 - 📱 [Project 2] - Brief description
-- 📱 [Project 3] - Brief description
+- 📱 [Project 3] - Brief description]
 
 ## 🤝 Let's Connect!
-- 💼 [LinkedIn](your-linkedin-url)
+- 💼 [LinkedIn](www.linkedin.com/in/hiru93)
 - 📫 Email: hiru.wlc@gmail.com
 - 🌐 Portfolio: [your-portfolio-url]
 
