@@ -36,9 +36,9 @@ iOS Developer with 6 years of experience crafting elegant and efficient mobile s
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)](https://github.com/yourusername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LahiruChathuranga&show_icons=true&theme=tokyonight)](https://github.com/LahiruChathuranga)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)](https://github.com/yourusername)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruChathuranga&layout=compact&theme=tokyonight)](https://github.com/LahiruChathuranga)
 
 </div>
 
