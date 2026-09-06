@@ -10,7 +10,7 @@
 </div>
 
 ## 🚀 About Me
-iOS Developer with 6 years of experience crafting elegant and efficient mobile solutions. Passionate about creating intuitive user experiences and writing clean, maintainable code.
+iOS Developer with 7 years of experience crafting elegant and efficient mobile solutions. Passionate about creating intuitive user experiences and writing clean, maintainable code.
 
 ## 💻 Tech Stack
 - **Languages & Frameworks**
